@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bai1trang50/1.0.0": {
+        "runtime": {
+          "bai1trang50.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai1trang50/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

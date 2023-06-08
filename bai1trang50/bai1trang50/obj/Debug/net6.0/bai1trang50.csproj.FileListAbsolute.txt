@@ -1,0 +1,15 @@
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\bin\Debug\net6.0\bai1trang50.exe
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\bin\Debug\net6.0\bai1trang50.deps.json
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\bin\Debug\net6.0\bai1trang50.runtimeconfig.json
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\bin\Debug\net6.0\bai1trang50.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\bin\Debug\net6.0\bai1trang50.pdb
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.csproj.AssemblyReference.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.AssemblyInfoInputs.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.AssemblyInfo.cs
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.csproj.CoreCompileInputs.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\refint\bai1trang50.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.pdb
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\bai1trang50.genruntimeconfig.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai1trang50\bai1trang50\obj\Debug\net6.0\ref\bai1trang50.dll
