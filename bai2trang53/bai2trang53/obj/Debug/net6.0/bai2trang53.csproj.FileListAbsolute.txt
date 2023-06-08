@@ -1,0 +1,15 @@
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.csproj.AssemblyReference.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.AssemblyInfoInputs.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.AssemblyInfo.cs
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.csproj.CoreCompileInputs.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\bin\Debug\net6.0\bai2trang53.exe
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\bin\Debug\net6.0\bai2trang53.deps.json
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\bin\Debug\net6.0\bai2trang53.runtimeconfig.json
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\bin\Debug\net6.0\bai2trang53.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\bin\Debug\net6.0\bai2trang53.pdb
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\refint\bai2trang53.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.pdb
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\bai2trang53.genruntimeconfig.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai2trang53\bai2trang53\obj\Debug\net6.0\ref\bai2trang53.dll

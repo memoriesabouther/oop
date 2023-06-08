@@ -1,0 +1,15 @@
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\bin\Debug\net6.0\bai3trang39.exe
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\bin\Debug\net6.0\bai3trang39.deps.json
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\bin\Debug\net6.0\bai3trang39.runtimeconfig.json
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\bin\Debug\net6.0\bai3trang39.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\bin\Debug\net6.0\bai3trang39.pdb
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.csproj.AssemblyReference.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.AssemblyInfoInputs.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.AssemblyInfo.cs
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.csproj.CoreCompileInputs.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\refint\bai3trang39.dll
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.pdb
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\bai3trang39.genruntimeconfig.cache
+C:\Users\TUAN NGUYEN\source\repos\buoi 4\bai3trang39\bai3trang39\obj\Debug\net6.0\ref\bai3trang39.dll

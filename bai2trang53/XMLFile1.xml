@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CompanyData>
+	<ABC>
+		<Employee>
+			<MaNhanVien>NV001</MaNhanVien>
+			<TenNhanVien>Nguyễn Văn A</TenNhanVien>
+			<NamSinh>1990</NamSinh>
+			<GioiTinh>Nam</GioiTinh>
+			<HeSoLuong>1.2</HeSoLuong>
+			<NamVaoLam>2010</NamVaoLam>
+			<XepLoai>A</XepLoai>
+		</Employee>
+		<Employee>
+			<MaNhanVien>NV002</MaNhanVien>
+			<TenNhanVien>Trần Thị B</TenNhanVien>
+			<NamSinh>1995</NamSinh>
+			<GioiTinh>Nữ</GioiTinh>
+			<HeSoLuong>1.1</HeSoLuong>
+			<NamVaoLam>2012</NamVaoLam>
+			<XepLoai>B</XepLoai>
+		</Employee>
+	</ABC>
+	<BCD>
+		<Employee>
+			<MaNhanVien>NV003</MaNhanVien>
+			<TenNhanVien>Lê Văn C</TenNhanVien>
+		</Employee>
+		<Employee>
+			<MaNhanVien>NV004</MaNhanVien>
+			<TenNhanVien>Phạm Thị D</TenNhanVien>
+		</Employee>
+		<Employee>
+			<MaNhanVien>NV005</MaNhanVien>
+			<TenNhanVien>Hoàng Văn E</TenNhanVien>
+		</Employee>
+	</BCD>
+</CompanyData>
